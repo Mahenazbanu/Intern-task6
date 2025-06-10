@@ -79,6 +79,7 @@ General Tips:
 6. 📚 Summary
 
 The password "S3(ur!Ty#ec*58" demonstrates strong characteristics including length, complexity, and lack of common words. It resists most forms of automated attack and scores highly on strength meters. However, slight improvements can be made by increasing randomness and reducing recognizable patterns. In general, password strength is significantly enhanced by combining length, complexity, and unpredictability—this password exemplifies that principle effectively.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##Summary of how password complexity affects security.
